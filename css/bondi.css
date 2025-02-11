@@ -95,10 +95,6 @@ body{
 .navbar .search{
   border-left: 1px solid var(--green-color);
   color: var(--green-color);
-  /* padding-right: 10px;
-  padding-left: 3px; */
-  
-
 }
 
 .navbar .btn{
@@ -118,30 +114,10 @@ body{
 .navbar .navbar-toggler[aria-expanded=true]{
   border-color: var(--green-color);
 }
-/* end navbar */
 
-/* .title  {
-  background-color: var(--dark-color);
-  color: white;
-  text-align:center;
- height: 50%;
- min-height: calc(100vh - 72px);
- padding: 300px;
-
-}
-.title p{
- color: #8c949f;
-} */
-/* start landing  */
 .landing{
   background-color: var(--dark-color);
-  /* ڵمڵٱء ٱڵصفحه  وخصم حجم ٱڵنٱف بٱر */
   min-height: calc(100vh - 72px);    
-  /* لتوسيط الكلام او الاشياء فل نص بنستخدم ال تلاته دول  */
-  /* display: flex;
-  justify-content: center;
-  align-items: center;  */
-  
 }
 /* end landing  */
 .main-title::after{
